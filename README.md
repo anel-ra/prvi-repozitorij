@@ -16,4 +16,6 @@ This is a simple project to learn GitHub basics.
  
 - Instructions for beginners. 
  
-- Easy-to-follow examples.  
+- Easy-to-follow examples.
+
+- i dalje samo vjezba  
